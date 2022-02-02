@@ -1,3 +1,3 @@
-# Satwik | JavaScript
+# Tauqueer Jafri | HTML, CSS, and Javascript for Web Developers
 
-Basically trying out JavaScript.
+Coding Assignment.
